@@ -1,0 +1,5 @@
+flask
+gunicorn
+request
+bs4
+re
